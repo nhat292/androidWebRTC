@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidRTC</string>
+    <string name="host_for_launch">live-streaming-rtc.herokuapp.com</string>
+    <string name="host">https://live-streaming-rtc.herokuapp.com/</string>
+    <string name="port">3000</string>
+    <string name="action_settings">Options</string>
+</resources>
